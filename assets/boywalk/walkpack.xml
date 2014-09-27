@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:fca2df42178de542ff4061db130b7828:e942bf487ea2a0eaa0e04406392b2545:eb24777318460357f451e56b6c9c4197$ -->
+<TextureAtlas imagePath="walkpack.png">
+    <SubTexture name="walk right 1" x="0" y="0" width="32" height="64"/>
+    <SubTexture name="walk right 2" x="0" y="0" width="32" height="64"/>
+    <SubTexture name="walk right 3" x="32" y="0" width="32" height="64"/>
+    <SubTexture name="walk right 4" x="32" y="0" width="32" height="64"/>
+    <SubTexture name="walk right 5" x="0" y="0" width="32" height="64"/>
+    <SubTexture name="walk right 6" x="0" y="0" width="32" height="64"/>
+    <SubTexture name="walk right 7" x="0" y="64" width="32" height="64"/>
+    <SubTexture name="walk right 8" x="0" y="64" width="32" height="64"/>
+</TextureAtlas>
